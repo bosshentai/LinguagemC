@@ -1,0 +1,21 @@
+2. Quais são as 6 etapas/ciclo de desenvolvimento de um programa em C . 
+
+Editor: este programa é usado para escrever o codigo-fonte, a primeira
+coisa que qualquer programador que escreve um programa em qualquer linguagem faria.
+
+Debugger: Este programa  nos ajuda a identifcar erros de sintaxe no codigo-fonte. 
+
+Pre-processador: Existem certas instruções especiais no codigo-fonte identificadas
+pelo símbolo # que são executados por um especial denominado pre-processador.
+
+Compilador: O processo de conversão do codigo-fonte C em codigo de maquina é feito
+por um programa chamada Compiler. 
+
+Linker: O codigo maquina relacionado ao codigo-fonte que foi escrito é combinado com 
+algum outro codigo de maquina para derivar o programa completo em um arquivo executavel.
+Isso é feito  por um programa chamada vincualdor. 
+
+
+Loader: É o programa do sistema operacional que carrega que carrega o executável do disco
+na memória primária (RAM) para execução. Ele aloca o espaço de memória para o modulo executavel
+na memória e então transfere o controle para a instrução inicial do programa. 

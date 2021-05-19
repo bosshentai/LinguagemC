@@ -1,0 +1,13 @@
+1. Indica 3 características da linguagem de programação C. Especifica cada uma delas. 
+Modularidade: O conceito de armazenamento de código da linguagem  na forma de bibliotecas para usos futuros é conhecido 
+como modularidade. Esta van de linguagem de programação  faz muito pouco por conta própria, a maior parte de seu poder 
+está nas bibliotecas. A linguagem C tem sua própria biblioteca para resolver problemas comuns, como neste podemos 
+usar uma função particular usando um arquivo de cabeçalho usar uma função particular usando um arquivo de cabeçalho
+armazenado em sua biblioteca.
+
+Linguagem de propósito geral: da programação  do sistema ao software de edição de fotos, a linguagem de programação C 
+é usada em varios aplicativos(Windows, IOS, Android,OXS).
+
+
+Portabilidade: a linguagem C é extremamente portátil, visto que programas escritos em linguagem C podem ser executados e 
+compliados em qualquer  sistemas com nenhuma ou pequenas alterações.
