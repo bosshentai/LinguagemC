@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+// autor: Hernâni Baptista n 4933
+
 #define NAMESIZE 20
 #define ALUNOSIZE 2
 
@@ -15,6 +18,12 @@ typedef struct aluno
     float media;
 
 } Aluno;
+
+
+// funcao media 
+// paramentro : 3 numeros decimais
+// return: 1 numero decimal 
+// descricao: a funcao calcula a media de 3 valores decimais .
 
 float media(float n1, float n2, float n3)
 {

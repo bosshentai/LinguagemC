@@ -3,10 +3,24 @@
 
 #include <math.h>
 
+// autor: Hernâni Baptista n 4933
+
+// funcao delta
+// paramentros : 3 valores float 
+// return  valor float
+// descriçao: a funcao delta e calcular o valor de delta de uma 
+// equaçao do segundo grau
+
 float delta(float a, float b, float c)
 {
     return pow(b, 2) - 4 * a * c;
 }
+
+
+// funcao bhashara
+// paramentros: delta , a , b pointeiro x1 e x2
+// descricao: atribuir os valores para x1 e x2 
+// em x1 e parte positiva e x2 e a parte negativa 
 
 void bhashara(float delta,float a, float b,float *x1, float *x2){
     //float x1,x2;
