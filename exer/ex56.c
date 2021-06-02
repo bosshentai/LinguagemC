@@ -41,6 +41,15 @@ void main(){
         }
     }   
 
-    printf("O linha com o menor numero %d \n", result2);
+    // printf("O linha com o menor numero %d \n", result2);
+
+        for(int i = 0; i< SIZE; i++){
+        for(int j = 0; j < SIZE; j++){
+            if(result2 == matriz[i][j]){
+              
+                printf("O linha com o menor numero %d \n", result2);
+            }
+        }
+    } 
     
 }
